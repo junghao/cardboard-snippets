@@ -1,0 +1,1 @@
+使用Xcode建立一個新的Game專案以後，把這裏的GameViewController.m覆蓋到專案裡，再在專案裡面加入Shader.vsh和Shader.fsh。
